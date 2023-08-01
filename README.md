@@ -1,7 +1,9 @@
 # 💫 About Me:
 - 🔭 Developer at Nexer Group
-- 🌱 Currently studying React and NextJs
+- 🌱 Currently studying the JavaScript Ecosystem
 - 🌍 Living in Sweden
+- Father
+- Tech and bushcraft enthusiast (why not?)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelohcortez) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marcelohcortez) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/44437) 
