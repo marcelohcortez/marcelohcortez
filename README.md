@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 💻 Developer at Nexer Group
-- 🌍 Living in Sweden
+- 💻 Senior Software Engineer at Volvo Group
+- 🌍 Living in Gothenburg - Sweden
 - 👪 Father
 - 💾 Tech enthusiast
 - 🎮 Gamer when possible
