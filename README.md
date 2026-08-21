@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 Senior Software Engineer at Volvo Group
+- 💻 Senior Software Engineer at Devies
 - 🌍 Living in Gothenburg - Sweden
 - 👪 Father
 - 💾 Tech enthusiast
